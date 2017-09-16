@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<title>Comics</title>
+
+<head><link rel="stylesheet" href="sw_historysite_css"></head>
+
+<div class="topNav">
+    <a href="sw_historysite">Home</a>
+    <a href="sw_movies">Movies</a>
+    <a href="sw_books">Books</a>
+    <a href="sw_comics">Comics</a>
+    <a href="sw_games">Games</a>
+</div>
+
+<div class="pageTitle"><h1>Comics</h1></div>
+
+[placeholder]
+
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<title>Books</title>
+
+<head><link rel="stylesheet" href="sw_historysite_css"></head>
+
+<div class="topNav">
+    <a href="sw_historysite">Home</a>
+    <a href="sw_movies">Movies</a>
+    <a href="sw_books">Books</a>
+    <a href="sw_comics">Comics</a>
+    <a href="sw_games">Games</a>
+</div>
+
+<div class="pageTitle"><h1>Books</h1></div>
+List of books:<br _>
+<!--going to have subpage for each book in list. Can link to amazon and show book covers and descriptions
+should all these links open new tab or in current tab? new tab for now-->
+<div class="bookList"><ul>
+  <a href="sw_books_dd" target="_blank"><li>Dark Deciple</li></a>
+  <a href="sw_books_ah" target="_blank"><li>Ahsoka</li></a>
+  <a href="sw_books_los" target="_blank"><li>Lords of the Sith</li></a>
+  <a href="sw_books_tar" target="_blank"><li>Tarkin</li></a>
+  <a href="sw_books_rr" target="_blank"><li>Rebel Rising</li></a>
+  <a href="sw_books_th" target="_blank"><li>Thrawn</li></a>
+  <li>A New Dawn</li>
+  <li>Lost Stars</li>
+  <li>Battlefront: Twilight Company</li>
+  <li>Leia, Princess of Alderaan</li>
+  <li>Guardians of the Whils</li>
+  <li>Rogue One: A Star Wars Story</li>
+  <li>Battlefront II: Inferno Squad</li>
+  <li>Heir to the Jedi</li>
+  <li>Aftermath</li>
+  <li>Aftermath: Life Debt</li>
+  <li>Aftermath: Empires End</li>
+  <li>Bloodline</li>
+  <li>Phasma</li>
+  <li>Various novelizations of all the movies</li><!--this subpage will be busy-->
+</ul><br _><br _>
+</div>
+
+</html>

@@ -1,0 +1,41 @@
+.topNav{
+  display: inline-block;
+  background-color: white;
+  overflow: hidden;
+  position: fixed;
+  top: 0px;
+}
+
+
+.topNav a{
+  display: inline-block;
+  float: left;
+  border: solid 1px teal;
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 30px;
+  color: teal;
+  }
+
+
+a:hover{
+  background-color: gray;
+}
+
+h1{
+  text-align: center;
+  margin: 65px;
+}
+
+.bookList a{
+  text-decoration: none;
+}
+
+li{
+  margin: .2em}
+
+/** use this class for each subpage title when you figure out how you want them to look 
+.pageTitle{
+  }
+possible to do with h1? but would be better to switch to this class to avoid conflicts with other h1 elements not at the top of the page
+**/
