@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<title>Shows</title>
+
+<head><link rel="stylesheet" href="sw_historysite_css"></head>
+
+<div class="topNav">
+    <a href="sw_historysite">Home</a>
+    <a href="sw_movies">Movies</a>
+    <a href="sw_shows">Shows</a>
+    <a href="sw_books">Books</a>
+    <a href="sw_comics">Comics</a>
+    <a href="sw_games">Games</a>
+</div>
+
+<div class="pageTitle"><h1>Shows</h1></div>
+
+<p>At this point in time there are currently only two canonical shows out(both being animated), The Clone Wars animated series an Star Wars Rebels.</p>
+
+<h2>The Clone Wars</h2><br _>
+
+[director(s)]
+[voice actors]
+[animators]
+[seasons]
+[arcs]
+[early cancelation-work being finished via books/comics]
+[tie ins to other media-rebels/comics]<br _><br _>
+
+<h2>Rebels</h2>
+[director(s)]
+[voice actors]
+[animators]
+[seasons]
+[arcs]
+[tie ins to toher media-books new dawn]
+
+</html>

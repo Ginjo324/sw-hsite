@@ -32,7 +32,19 @@ h1{
 }
 
 li{
-  margin: .2em}
+  margin: .2em;
+  float: left;
+  clear: both;
+}
+
+.intro{
+  border: solid black 2px;
+  padding: 4px 10px 4px 10px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
 
 /** use this class for each subpage title when you figure out how you want them to look 
 .pageTitle{
