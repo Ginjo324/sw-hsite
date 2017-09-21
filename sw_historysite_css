@@ -49,10 +49,12 @@ li{
   width: 600px;
 }
 
+
 p{
   font-family: monospace;
   font-size: 110%;
 }
+
 
 /** use this class for each subpage title when you figure out how you want them to look 
 .pageTitle{
