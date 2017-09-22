@@ -9,6 +9,7 @@
 <div class="topNav">
     <a href="sw_historysite">Home</a>
     <a href="sw_movies">Movies</a>
+    <a href="sw_shows">Shows</a>
     <a href="sw_books">Books</a>
     <a href="sw_comics">Comics</a>
     <a href="sw_games">Games</a>
@@ -16,6 +17,6 @@
 
 <div class="pageTitle"><h1>Comics</h1></div>
 
-[placeholder]
+<p>publisher, writer, illustrator, series?</p>
 
 </html>

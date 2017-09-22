@@ -2,6 +2,8 @@
 
 <html>
 
+<head><link rel="stylesheet" href="sw_historysite_css"></head>
+
 <title>Tarkin</title>
 
 <p>This is the subpage for Tarkin book information.</p>
